@@ -1,10 +1,10 @@
-# hello-world
-my first repository
+# hallo-welt
+mein erstes Repository
 
-doing my first steps in github and try to change something
+mache meine ersten Schritte in GitHub und versuche, etwas zu ändern
 
-changing something with the browser
+etwas mit dem Browser ändern
 
-changes with atom
+Änderungen mit Atom
 
-looks good so far (tf)
+sieht bisher gut aus (tf)
