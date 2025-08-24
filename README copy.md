@@ -8,5 +8,3 @@ changing something with the browser
 changes with atom
 
 looks good so far (tf)
-
-2025-08-24
